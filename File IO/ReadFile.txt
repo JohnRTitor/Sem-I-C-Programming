@@ -1,5 +1,0 @@
-Hello, World!
-This is my first time working with files.
-My name is Masum Reza.
-The sentence below is an example sentence.
-The cat jumps over the wall. I have a dog which is chasing my cat.
